@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "title": "Iphone 15 pro",
+      "price": "$980",
+      "category": "Phone"
+    },
+    {
+      "id": "0980",
+      "title": "Lipstick",
+      "price": "233",
+      "category": "cosmetics"
+    },
+    {
+      "id": "da55",
+      "title": "Shirt",
+      "price": "49",
+      "category": "Clothes"
+    },
+    {
+      "id": "ddbc",
+      "title": "Sofa",
+      "price": "1200",
+      "category": "Furniture"
+    }
+  ]
+}
